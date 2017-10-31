@@ -1,0 +1,13 @@
+C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\bin\Debug\IISUnitTest.dll
+C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\bin\Debug\IISUnitTest.pdb
+C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\bin\Debug\WebDriver.dll
+C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\bin\Debug\WebDriver.Support.dll
+C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\bin\Debug\WebDriver.xml
+C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\bin\Debug\WebDriver.Support.xml
+C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\obj\Debug\IISUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\obj\Debug\IISUnitTest.dll
+C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\obj\Debug\IISUnitTest.pdb
