@@ -64,7 +64,6 @@ C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\Jenkins_web_app\b
 C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\Jenkins_web_app\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\Jenkins_web_app\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\Jenkins_web_app\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\Jenkins_web_app\obj\Debug\Jenkins_web_app.csprojResolveAssemblyReference.cache
 C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\Jenkins_web_app\obj\Debug\Jenkins_web_app.dll
 C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\Jenkins_web_app\obj\Debug\Jenkins_web_app.pdb
 C:\Users\amits128\Documents\GitHub\Web_app\Jenkins_web_app\Jenkins_web_app\bin\roslyn\csc.exe
