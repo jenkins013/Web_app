@@ -10,7 +10,6 @@ using OpenQA.Selenium.Support.UI;
 using OpenQA.Selenium.Remote;
 using System.Threading;
 using OpenQA.Selenium.Interactions;
-using OpenQA.Selenium.Chrome;
 
 namespace IISappUnitTestProject
 {
@@ -25,7 +24,7 @@ namespace IISappUnitTestProject
         {
             options.IntroduceInstabilityByIgnoringProtectedModeSettings = true;
             string idePath = @"C:\Users\nirotpalm626\Documents\Visual Studio 2015\Projects\IISappUnitTestProject\IISappUnitTestProject\IISappUnitTestProject\";
-            IEDriver = new ChromeDriver(idePath); // new InternetExplorerDriver(idePath, options);
+            IEDriver = new InternetExplorerDriver(idePath, options);
             IEDriver.Manage().Timeouts().ImplicitlyWait(new TimeSpan(0, 0, 30));
 
         }
