@@ -43,6 +43,5 @@ C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\IISap
 C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\IISappUnitTestProject\bin\Debug\WebDriver.dll
 C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\IISappUnitTestProject\bin\Debug\WebDriver.Support.dll
 C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\IISappUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\IISappUnitTestProject\obj\Debug\IISappUnitTestProject.csprojResolveAssemblyReference.cache
 C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\IISappUnitTestProject\obj\Debug\IISappUnitTestProject.dll
 C:\Users\nirotpalm626\Documents\GitHub\Web_app\Jenkins_web_app\IISUnitTest\IISappUnitTestProject\obj\Debug\IISappUnitTestProject.pdb
