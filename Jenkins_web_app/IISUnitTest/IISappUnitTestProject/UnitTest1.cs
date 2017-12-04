@@ -23,8 +23,8 @@ namespace IISappUnitTestProject
         public void initialize()
         {
             options.IntroduceInstabilityByIgnoringProtectedModeSettings = true;
-           // string idePath = @"C:\Users\nirotpalm626\Documents\Visual Studio 2015\Projects\IISappUnitTestProject\IISappUnitTestProject\IISappUnitTestProject\";
-            IEDriver = new InternetExplorerDriver(options);
+            string idePath = @"C:\Program Files (x86)\Jenkins\workspace\Unit Test Job\Jenkins_web_app\IISUnitTest\IISappUnitTestProject\";
+            IEDriver = new InternetExplorerDriver( idePath ,options);
             IEDriver.Manage().Timeouts().ImplicitlyWait(new TimeSpan(0, 0, 30));
 
         }
