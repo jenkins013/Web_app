@@ -1,0 +1,8 @@
+
+*.cs
+*.dll
+*.pdb
+/Jenkins_web_app/Jenkins_web_app/obj/Debug/__TestProfilesForFilePreview__
+/Jenkins_web_app/Jenkins_web_app/obj/Release/CSAutoParameterize
+/Jenkins_web_app/Jenkins_web_app/obj/Release/Package
+/Jenkins_web_app/Jenkins_web_app/obj/Release
