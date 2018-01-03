@@ -6,3 +6,5 @@
 /Jenkins_web_app/Jenkins_web_app/obj/Release/CSAutoParameterize
 /Jenkins_web_app/Jenkins_web_app/obj/Release/Package
 /Jenkins_web_app/Jenkins_web_app/obj/Release
+Jenkins_web_app/.vs/config/applicationhost.config
+*.config

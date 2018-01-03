@@ -31,7 +31,7 @@ namespace IISappUnitTestProject
         [TestMethod]
         public void TestMethod1()
         {
-            IEDriver.Navigate().GoToUrl("http://localhost/Jenkins_web_app/");
+            IEDriver.Navigate().GoToUrl("https://jenkins12.azurewebsites.net");
             IEDriver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(15));
             IEDriver.Manage().Window.Maximize();
             IWebElement verifyText = IEDriver.FindElement(By.CssSelector("body > div.container.body-content > div.jumbotron > p.lead"));
